@@ -3,7 +3,6 @@
 
 <p align="center" style="margin : 10px auto;">
 <a href="https://www.linkedin.com/in/mohamed-dhia/" target="blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed dhia" height="30" width="30" /></a>
-<a href="https://www.facebook.com/wlhmanishDhia/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohamed dhia" height="30" width="30" /></a>
 </p>
 
 ---
@@ -12,7 +11,7 @@
 
 - 🔭 I’m currently working **as a software development engineer at [Think It](https://www.think-it.io/)**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Gleam 💖**
 
 - 💬 Ask me about **Javascript, React, Redux, express, MongoDB**
 
@@ -50,19 +49,6 @@
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
 <img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
-
----
-
-<table width="100%">
-<tr>
-<td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-dhia&show_icons=true" alt="mohamed-dhia" /></p>
-</td>
-<td width="40%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dhia&layout=compact" alt="mohamed-dhia" /></p>
-</td>
-</tr>
-</table>
 
 ---
 
