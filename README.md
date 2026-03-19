@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mohamed-dhia" alt="mohamed-dhia" /> </p>
 
-- 🔭 I’m currently working **as a software development engineer at [Think It](https://www.think-it.io/)**
+- 🔭 I’m currently working **as a software development engineer**
 
 - 🌱 I’m currently learning **Gleam 💖**
 
